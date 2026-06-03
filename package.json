@@ -1,0 +1,12 @@
+{
+  "name": "fbackednprj",
+  "version": "1.0.0",
+  "description": "this is my first fullstack project",
+  "license": "ISC",
+  "author": "shahzain",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
